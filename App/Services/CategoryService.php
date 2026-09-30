@@ -1,0 +1,8 @@
+<?php
+
+namespace alf89\AbeloHost\Services;
+
+class CategoryService
+{
+
+}
