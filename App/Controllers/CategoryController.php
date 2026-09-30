@@ -1,6 +1,6 @@
 <?php
 
-namespace alf89\AbeloHost\Controllers;
+namespace alf89\AbeloHost\App\Controllers;
 
 class CategoryController
 {
